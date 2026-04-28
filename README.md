@@ -1,5 +1,5 @@
 # Python_finance
-# Apple Stock Candlestick Visualization
+# Stock Candlestick Visualization
 
 This project fetches historical stock data for Apple (AAPL) and visualizes it using a candlestick chart. The goal is to represent price movements in a format commonly used in trading and technical analysis.
 
